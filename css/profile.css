@@ -1,0 +1,76 @@
+
+
+  html,body {
+
+    background-image: url("../assets/6.jpg");
+    height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  }
+
+  .navbar {
+    background: #DF7C7C;
+  }
+
+  .logo
+  {  height: 60px;
+    width: 100px;
+    border-radius: 30%;
+    
+  }
+
+
+
+  .nav-link {
+    color: white;
+  }
+
+  .navbar-toggler-icon {
+    background-color: aliceblue;
+    border-radius: 100px;
+  }
+
+
+  footer {
+    background: #DF7C7C;
+    position: fixed;
+    left: 0;
+bottom: 0;
+width: 100%;
+
+color: white;
+text-align: center;
+  }
+
+  .rounded-circle {
+    margin-top: 5px;
+    height: 100px;
+    width: 100px;
+    display: inline;
+
+  }
+
+  .card-title {
+    position: relative;
+    display: inline;
+    clear: both;
+
+  }
+
+
+
+  .card {
+    background-color: rgba(245, 245, 245, 0.4);
+  }
+
+  .card-header,
+  .card-footer {
+    opacity: 1
+  }
+
+
+  

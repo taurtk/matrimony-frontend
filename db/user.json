@@ -1,0 +1,44 @@
+{
+  "user":[
+  {
+  "firstname":"taufique",
+  "lastname":"khan",
+  "username":"aaron",
+  "phone":123,
+  "email":"taufique",
+  "password":"12345",
+  "DOB":"01/02/2000",
+  "Height":"5.1 ft",
+  "Gender":"M",
+  "Occupation":"SoftwareEngineer",
+  "Nativity":"Hyderabad",
+  "SalaryRange":"10000",
+  "Faith":"Islam",
+  "Address":"Hyderabad",
+  "Bio":"Hi i am Taufique",
+  "Interest":"Hiking",
+  "MotherTongue":"Hindi",
+  "Martial Status":"Single",
+  "Physical Status":"Slim",
+  "Education":"B.tech",
+  "Complexion":"Brown",
+  "Sibblings":"4",
+  "Living Status":"NRI",
+  "LookingforHeightRange":"5.1",
+  "LookingforComplexion":"white",
+  "LookingforMartialStatus":"Single",
+  "LookingforQualification":"B.tech",
+  "Looking,forOccupation":"Software Engineer",
+  "LookingforMotherTongue":"Hindi",
+  "Active":"Y",
+  "LastLogin":[],
+  "Activity": [{
+    "username":"number", 
+    "invitationSent":"bool",
+    "invitationRecieved":"bool",
+    "invitationCancelled":"bool",
+    "invitationAccepted":"bool",
+    "profilesaved":"bool"
+    }]
+   }]
+  }
